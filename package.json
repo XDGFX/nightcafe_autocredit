@@ -1,0 +1,22 @@
+{
+  "name": "nightcafe_autocredit",
+  "version": "1.0.0",
+  "description": "Automatically fetch free credits from Nightcafe",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XDGFX/nightcafe_autocredit.git"
+  },
+  "author": "XDGFX",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/XDGFX/nightcafe_autocredit/issues"
+  },
+  "homepage": "https://github.com/XDGFX/nightcafe_autocredit#readme",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  }
+}
